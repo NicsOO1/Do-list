@@ -1,0 +1,25 @@
+@media screen and (max-width: 600px) {
+
+  #itemInput{
+    border: solid 3px #000;
+    font-size: 18px;
+    padding: 0 20px;
+    width: 100%;
+    height: 60px;
+    outline: none;
+    border-radius: 20px;
+    background: #48484818;
+  
+  }
+
+
+  #add-btn{
+    width: 60px;
+  height: 50px;
+  border: solid 3px #000;
+  border-radius: 15px;
+  background: #48484818;
+  font-size: 25px;
+  font-weight: 600;
+  }
+}
